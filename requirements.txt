@@ -1,0 +1,4 @@
+mechanize
+pandas
+lxml
+beautifulsoup4
